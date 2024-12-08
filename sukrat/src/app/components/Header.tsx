@@ -11,6 +11,7 @@ const Header = () => {
             <a href="/about" className="text-gray-600 hover:text-gray-900">About</a>
             <a href="/services" className="text-gray-600 hover:text-gray-900">Services</a>
             <a href="/pricing" className="text-gray-600 hover:text-gray-900">Pricing</a>
+            <a href="/dashboard" className="text-gray-600 hover:text-gray-900">Dashboard</a>
             <div className="flex items-center space-x-4">
               <a href="/signin" className="text-gray-600 hover:text-gray-900">Sign In</a>
               <a href="/register" className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors">
